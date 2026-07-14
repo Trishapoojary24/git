@@ -1,2 +1,6 @@
 this is a a2 file 
+<<<<<<< HEAD
 master update
+=======
+first update
+>>>>>>> first
