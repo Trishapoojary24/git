@@ -1,2 +1,6 @@
 this is a a3 file 
+<<<<<<< HEAD
 first update
+=======
+new content in a3
+>>>>>>> second

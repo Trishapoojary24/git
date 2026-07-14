@@ -1,6 +1,10 @@
 this is a a1 file
 <<<<<<< HEAD
+<<<<<<< HEAD
 master update
 =======
 first update
 >>>>>>> first
+=======
+new content in a1
+>>>>>>> second
